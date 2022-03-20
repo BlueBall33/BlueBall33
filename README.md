@@ -1,4 +1,4 @@
-## **<div align="center">Hey 👋, I'm BlueBallPL</div>**  
+## **<div align="center">Hey 👋, I'm BlueBallPL</div>**
   
 
 <div align="center">
@@ -52,6 +52,6 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-            <a href="https://paypal.me/b" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/blueballpl" target="_blank" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center" style="width: 100%"/>
             </a></div>
