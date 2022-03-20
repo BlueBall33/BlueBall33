@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueball33&label=Profile%20views&color=002aff&style=flat" alt="blueball33" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blueball33" alt="blueball33" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
