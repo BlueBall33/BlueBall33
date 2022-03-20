@@ -42,19 +42,16 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=blueball33&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=blueball33&&style=flat-square" align="center" style="width: 100%"/>
 </div>  
 
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 <div align="center">
             <a href="https://paypal.me/b" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
+                <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center" style="width: 100%"/>
             </a></div>
